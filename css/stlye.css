@@ -1,0 +1,21 @@
+label {
+    font-weight: bold;
+}
+
+input {
+    padding: 8px;
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+result {
+    font-weight: bold;
+    margin-top: 20px;
+}
